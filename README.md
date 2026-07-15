@@ -1,6 +1,6 @@
 # 세계문학 고전 작가 연대표 · A Chronology of World Literature
 
-호메로스부터 한강까지, 작가 159인의 생애·전성기·주요 작품·노벨문학상을 한 축 위에 놓은 인터랙티브 연대표.
+호메로스부터 한강까지, 세계문학 작가들의 생애·전성기·주요 작품·노벨문학상을 한 축 위에 놓은 인터랙티브 연대표.
 
 **보기 → https://jayreyafterdawn.github.io/world-literature-timeline/**
 
